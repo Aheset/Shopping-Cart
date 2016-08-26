@@ -1,0 +1,47 @@
+.container{
+	height: 60%;
+	width: 60%;
+	border: solid grey;
+	margin: auto;
+	background-image: url(pattern.jpg);
+}
+
+
+
+.header{
+	background-color: grey;
+	height: 30%;
+	text-align: center;
+	position: relative;
+	background-image: url(blur-pattern.jpg);
+	margin-top: auto;
+
+}
+
+h1{
+	color: white;
+	padding: 10px;
+}
+
+.list{
+	border-bottom: solid grey;
+	list-style: none;
+}
+
+ul{
+	list-style: none;
+	
+}
+
+.total{
+	
+	margin-left: 25px;
+}
+
+.formItems{
+	border-top: solid grey;
+	padding: 25px;
+}
+
+
+
